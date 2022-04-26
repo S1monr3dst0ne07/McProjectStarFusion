@@ -1,0 +1,43 @@
+{
+    "machine": "emcMachine",
+    "registryName": "emcMachine",
+    "recipeTime": 5,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:diamond_essence"
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:dirt_essence"
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:fire_essence"
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "mysticalagriculture:water_essence"
+        },
+
+
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 256
+        },
+        
+        
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "extrautils2:compressedcobblestone@7"
+        }
+        
+        
+    ]
+}
