@@ -6,7 +6,6 @@
             "x": -1,
             "y": 0,
             "z": 0,
-            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -15,7 +14,6 @@
             "x": -1,
             "y": 0,
             "z": 1,
-            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -24,7 +22,6 @@
             "x": -2,
             "y": 0,
             "z": 2,
-            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -41,12 +38,6 @@
             "x": 0,
             "y": 0,
             "z": 1,
-            "nbt": 
-            {
-                "busSize":"1",
-                "casingColor":"16730368",
-                "id":"minecraft:tileiteminputbus"
-            },
             "elements": [
                 "modularmachinery:blockinputbus@1"
             ]
@@ -55,7 +46,6 @@
             "x": -2,
             "y": 0,
             "z": 0,
-            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -64,7 +54,6 @@
             "x": -1,
             "y": 0,
             "z": 2,
-            "nbt": {"hatchSize":"3","casingColor":"16730368","id":"minecraft:tileenergyoutputhatch","energy":"0L"},
             "elements": [
                 "modularmachinery:blockenergyoutputhatch@3"
             ]
@@ -73,7 +62,6 @@
             "x": 0,
             "y": 0,
             "z": 2,
-            "nbt": {"casingColor":"16730368","id":"minecraft:tilecolorablemachinecomponent"},
             "elements": [
                 "modularmachinery:blockcasing@0"
             ]
@@ -202,7 +190,6 @@
             "x": -2,
             "y": 0,
             "z": 1,
-            "nbt": {"busSize":"0","casingColor":"16730368","id":"minecraft:tileitemoutputbus"},
             "elements": [
                 "modularmachinery:blockoutputbus@0"
             ]
