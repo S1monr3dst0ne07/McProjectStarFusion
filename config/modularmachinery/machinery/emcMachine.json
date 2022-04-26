@@ -55,7 +55,7 @@
             "y": 0,
             "z": 2,
             "elements": [
-                "modularmachinery:blockenergyoutputhatch@3"
+                "modularmachinery:blockenergyinputhatch@3"
             ]
         },
         {
