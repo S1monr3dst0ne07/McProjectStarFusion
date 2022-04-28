@@ -1,0 +1,21 @@
+{
+    "machine": "endestReactor",
+    "registryName": "endestEnergy",
+    "recipeTime": 20,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:endest_pearl"
+        },
+
+
+        {
+            "type": "energy",
+            "io-type": "output",
+            "energyPerTick": 2147483648
+        },
+                
+        
+    ]
+}
