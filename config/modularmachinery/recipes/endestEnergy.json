@@ -14,7 +14,7 @@
             "type": "energy",
             "io-type": "output",
             "energyPerTick": 2147483648
-        },
+        }
                 
         
     ]
