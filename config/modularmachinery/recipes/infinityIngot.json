@@ -1,0 +1,33 @@
+{
+    "machine": "starFusion",
+    "registryName": "infinityIngot",
+    "recipeTime": 60,
+    "requirements": [
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "avaritia:resource@5"
+        },
+
+        {
+            "type": "energy",
+            "io-type": "input",
+            "energyPerTick": 1000000000
+        },
+        
+        
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "avaritia:resource@6"
+        },
+        
+        {
+            "type": "dimension",
+            "io-type": "input",
+            "dimension": [25]
+        }
+        
+        
+    ]
+}

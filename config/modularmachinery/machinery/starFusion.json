@@ -1,4 +1,6 @@
 {
+    "registryname": "starFusion",
+    "localizedname": "Star Fusion Reactor",
     "parts": [
         {
             "x": -4,
